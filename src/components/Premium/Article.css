@@ -1,0 +1,134 @@
+/* .form-container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.input-field,
+.file-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.file-input {
+    display: block;
+}
+
+.button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.radio-container,
+.radio-label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.radio-label {
+    margin-left: 10px;
+    margin-right: 20px;
+} */
+
+/* Improved checkbox styling */
+/* .checkbox-input {
+    display: none;
+}
+
+.checkbox-label::before {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    margin-right: 8px;
+    border: 1px solid #121313;
+    border-radius: 10px;
+    background-color: #fff;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.checkbox-input:checked+.checkbox-label::before {
+    background-color: #007bff;
+    /* border-color: #121313; */
+/* } 
+
+.category-container {
+    display: block;
+    margin: 20px 0;
+}
+
+.ql-container .ql-snow {
+    height: 400px;
+}
+
+/* Radio button styles similar to the checkboxes */
+/* .radio-input {
+    display: none;
+}
+
+.radio-group {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.radio-labels {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    cursor: pointer;
+} */
+
+/* .radio-labels::before {
+    content: ''; */
+/* Unicode character for a bullet (•) */
+/* font-size: 16px;
+    width: 8px;
+    height: 8px;
+    border: 1px solid #121313;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 18px;
+    margin-right: 8px;
+    margin-left: 5px;
+    background-color: #fff;
+    cursor: pointer;
+} */
+
+/* .radio-input:checked+.radio-labels::before {
+    background-color: #007bff;
+    color: #fff;
+    /* Bullet color when selected */
+/* border-color: #007bff;
+    border: 1px solid #121313;
+} */
+
+/* 
+@media (max-width: 768px) {
+
+    .radio-container,
+    .radio-label,
+    .checkbox-label {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+} */

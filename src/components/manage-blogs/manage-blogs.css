@@ -1,0 +1,37 @@
+/* Define a breakpoint where the table layout changes */
+@media screen and (max-width: 600px) {
+    .user-table-container {
+        overflow-x: auto;
+        /* Enable horizontal scrolling for small screens */
+    }
+
+    table {
+        width: 100%;
+        /* Make the table take up the full width */
+    }
+
+    th,
+    td {
+        white-space: nowrap;
+        /* Prevent text from wrapping */
+    }
+}
+
+/* Define a breakpoint for screens with a maximum width of 768px */
+@media screen and (max-width: 768px) {
+    .user-table-container {
+        overflow-x: auto;
+        /* Enable horizontal scrolling for smaller screens */
+    }
+
+    table {
+        width: 100%;
+        /* Make the table take up the full width */
+    }
+
+    th,
+    td {
+        white-space: nowrap;
+        /* Prevent text from wrapping */
+    }
+}
